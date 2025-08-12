@@ -314,6 +314,9 @@ def predict_intent_from_neighbors(
 
 def main():
     st.title("CX Intent Detection Tool")
+    
+    # Show help dropdown
+    render_how_to_use()
 
     # Session state init
     if "processor" not in st.session_state:
