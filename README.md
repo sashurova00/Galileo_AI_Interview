@@ -27,8 +27,8 @@ Features a Streamlit-based UI for setup, classification, and training data creat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sashurova00/Galileo_AI_Interview.git
-   cd intent-detection-tool
+   git clone https://github.com/sashurova00/Galileo_AI_Intent_Detection.git
+   cd Galileo_AI_Intent_Detection
    ```
 
 2. Install dependencies:
