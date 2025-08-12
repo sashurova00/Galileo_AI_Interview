@@ -1,0 +1,2087 @@
+{
+  "dataset_name": "galileo_intent_lab_100",
+  "created_utc": "2025-08-10T20:00:00Z",
+  "records": [
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "Policy engine: per-intent thresholds for go/no-go",
+          "ts": "1754740500.835775",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-08-09T11:56:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "Azure OpenAI swedencentral region unsupported in UI; docs mention it",
+          "ts": "1754233200.799545",
+          "thread_ts": "1754232900.726628",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-08-03T15:01:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "Need to pin & lock a 'golden set' before launch",
+          "ts": "1754493000.113157",
+          "thread_ts": "1754492700.551556",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-08-06T15:11:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "IP allowlist for webhook callbacks\u2014static egress IPs?",
+          "ts": "1753745280.610557",
+          "thread_ts": "1753744980.664678",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-07-28T23:29:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U03OPS",
+          "text": "Export embeddings + labels to Databricks Unity Catalog",
+          "ts": "1754145540.113452",
+          "blocks": []
+        },
+        "user": {
+          "id": "U03OPS",
+          "real_name": "Samir Patel"
+        }
+      },
+      "ingested_at": "2025-08-02T14:40:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U05SRE",
+          "text": "UI filters reset after back navigation (Chrome 128)",
+          "ts": "1753878900.496980",
+          "blocks": []
+        },
+        "user": {
+          "id": "U05SRE",
+          "real_name": "Taylor Kim"
+        }
+      },
+      "ingested_at": "2025-07-30T12:36:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U02BIZ",
+          "text": "Need to pin & lock a 'golden set' before launch",
+          "ts": "1753642800.635109",
+          "blocks": []
+        },
+        "user": {
+          "id": "U02BIZ",
+          "real_name": "Dana Ortiz"
+        }
+      },
+      "ingested_at": "2025-07-27T19:01:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "Azure OpenAI eastus2 region unsupported in UI; docs mention it",
+          "ts": "1753826100.534185",
+          "thread_ts": "1753825800.108977",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-07-29T21:56:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U02BIZ",
+          "text": "Bedrock Claude 3 Sonnet intermittently 429 during nightly runs",
+          "ts": "1753903200.253238",
+          "blocks": []
+        },
+        "user": {
+          "id": "U02BIZ",
+          "real_name": "Dana Ortiz"
+        }
+      },
+      "ingested_at": "2025-07-30T19:21:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "IP allowlist for webhook callbacks\u2014static egress IPs?",
+          "ts": "1753092660.576830",
+          "thread_ts": "1753092360.232613",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-07-21T10:12:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "Import human ratings from CSV to compare with pairwise",
+          "ts": "1754814720.197367",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-08-10T08:33:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U02BIZ",
+          "text": "SOC2 team needs latest data retention PDF",
+          "ts": "1754106300.692051",
+          "thread_ts": "1754106000.377399",
+          "blocks": []
+        },
+        "user": {
+          "id": "U02BIZ",
+          "real_name": "Dana Ortiz"
+        }
+      },
+      "ingested_at": "2025-08-02T03:46:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U03OPS",
+          "text": "RBAC: cannot assign 'analyst' role to SSO users",
+          "ts": "1754241720.457062",
+          "blocks": []
+        },
+        "user": {
+          "id": "U03OPS",
+          "real_name": "Samir Patel"
+        }
+      },
+      "ingested_at": "2025-08-03T17:23:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U05SRE",
+          "text": "Model switch from gpt-4o to gpt-4o-mini changes metrics by 3%",
+          "ts": "1753790820.479417",
+          "blocks": []
+        },
+        "user": {
+          "id": "U05SRE",
+          "real_name": "Taylor Kim"
+        }
+      },
+      "ingested_at": "2025-07-29T12:08:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U02BIZ",
+          "text": "Import human ratings from CSV to compare with pairwise",
+          "ts": "1753695480.486418",
+          "blocks": []
+        },
+        "user": {
+          "id": "U02BIZ",
+          "real_name": "Dana Ortiz"
+        }
+      },
+      "ingested_at": "2025-07-28T09:39:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U03OPS",
+          "text": "SOC2 team needs latest data retention PDF",
+          "ts": "1754650380.701390",
+          "thread_ts": "1754650080.959625",
+          "blocks": []
+        },
+        "user": {
+          "id": "U03OPS",
+          "real_name": "Samir Patel"
+        }
+      },
+      "ingested_at": "2025-08-08T10:54:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "Streaming chunking yields mismatched token counts",
+          "ts": "1753964340.291056",
+          "thread_ts": "1753964040.981694",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-07-31T12:20:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "RBAC: cannot assign 'analyst' role to SSO users",
+          "ts": "1754595180.726723",
+          "thread_ts": "1754594880.238296",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-08-07T19:34:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U05SRE",
+          "text": "How to set a seed for deterministic few-shot prompts",
+          "ts": "1754717280.536267",
+          "blocks": []
+        },
+        "user": {
+          "id": "U05SRE",
+          "real_name": "Taylor Kim"
+        }
+      },
+      "ingested_at": "2025-08-09T05:29:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U05SRE",
+          "text": "SSO role mapping fails for group name 'qa/regression'",
+          "ts": "1753858680.590095",
+          "blocks": []
+        },
+        "user": {
+          "id": "U05SRE",
+          "real_name": "Taylor Kim"
+        }
+      },
+      "ingested_at": "2025-07-30T06:59:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "SSO role mapping fails for group name 'qa/regression'",
+          "ts": "1754216820.898696",
+          "thread_ts": "1754216520.564217",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-08-03T10:28:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U03OPS",
+          "text": "SSO role mapping fails for group name 'qa/regression'",
+          "ts": "1753079220.127119",
+          "blocks": []
+        },
+        "user": {
+          "id": "U03OPS",
+          "real_name": "Samir Patel"
+        }
+      },
+      "ingested_at": "2025-07-21T06:28:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U03OPS",
+          "text": "Webhook to warehouse returns 400 when scores.custom has nulls",
+          "ts": "1754806740.322309",
+          "blocks": []
+        },
+        "user": {
+          "id": "U03OPS",
+          "real_name": "Samir Patel"
+        }
+      },
+      "ingested_at": "2025-08-10T06:20:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U03OPS",
+          "text": "Reproducibility: eval replay gives slightly different scores",
+          "ts": "1753470780.144663",
+          "blocks": []
+        },
+        "user": {
+          "id": "U03OPS",
+          "real_name": "Samir Patel"
+        }
+      },
+      "ingested_at": "2025-07-25T19:14:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "Bedrock Llama 3 70B intermittently 429 during nightly runs",
+          "ts": "1754062200.509559",
+          "thread_ts": "1754061900.227930",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-08-01T15:31:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "Azure OpenAI westus3 region unsupported in UI; docs mention it",
+          "ts": "1754756880.992712",
+          "thread_ts": "1754756580.796710",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-08-09T16:29:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "Embedding latency jump to ~2.9s yesterday around 1:00 UTC",
+          "ts": "1754835000.259066",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-08-10T14:11:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "Bedrock Claude 3.5 Haiku intermittently 429 during nightly runs",
+          "ts": "1754543760.193745",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-08-07T05:17:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "SOC2 team needs latest data retention PDF",
+          "ts": "1754822400.684408",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-08-10T10:41:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U05SRE",
+          "text": "Bedrock Llama 3 70B intermittently 429 during nightly runs",
+          "ts": "1754784180.939355",
+          "thread_ts": "1754783880.541316",
+          "blocks": []
+        },
+        "user": {
+          "id": "U05SRE",
+          "real_name": "Taylor Kim"
+        }
+      },
+      "ingested_at": "2025-08-10T00:04:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "Policy engine: per-intent thresholds for go/no-go",
+          "ts": "1753845120.300990",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-07-30T03:13:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "Policy engine: per-intent thresholds for go/no-go",
+          "ts": "1754253480.292940",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-08-03T20:39:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U05SRE",
+          "text": "Azure OpenAI eastus2 region unsupported in UI; docs mention it",
+          "ts": "1754579700.197272",
+          "blocks": []
+        },
+        "user": {
+          "id": "U05SRE",
+          "real_name": "Taylor Kim"
+        }
+      },
+      "ingested_at": "2025-08-07T15:16:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U05SRE",
+          "text": "How to set a seed for deterministic few-shot prompts",
+          "ts": "1753183620.749401",
+          "blocks": []
+        },
+        "user": {
+          "id": "U05SRE",
+          "real_name": "Taylor Kim"
+        }
+      },
+      "ingested_at": "2025-07-22T11:28:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "Embedding latency jump to ~4.2s yesterday around 0:00 UTC",
+          "ts": "1754543220.235939",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-08-07T05:08:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U03OPS",
+          "text": "UI filters reset after back navigation (Chrome 126)",
+          "ts": "1754663160.769106",
+          "thread_ts": "1754662860.276315",
+          "blocks": []
+        },
+        "user": {
+          "id": "U03OPS",
+          "real_name": "Samir Patel"
+        }
+      },
+      "ingested_at": "2025-08-08T14:27:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U03OPS",
+          "text": "500 on POST /api/v1/runs when dataset has >50000 rows",
+          "ts": "1753307280.147151",
+          "thread_ts": "1753306980.726467",
+          "blocks": []
+        },
+        "user": {
+          "id": "U03OPS",
+          "real_name": "Samir Patel"
+        }
+      },
+      "ingested_at": "2025-07-23T21:49:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U02BIZ",
+          "text": "RBAC: cannot assign 'analyst' role to SSO users",
+          "ts": "1753722300.845685",
+          "blocks": []
+        },
+        "user": {
+          "id": "U02BIZ",
+          "real_name": "Dana Ortiz"
+        }
+      },
+      "ingested_at": "2025-07-28T17:06:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U02BIZ",
+          "text": "RBAC: cannot assign 'analyst' role to SSO users",
+          "ts": "1753347360.848605",
+          "blocks": []
+        },
+        "user": {
+          "id": "U02BIZ",
+          "real_name": "Dana Ortiz"
+        }
+      },
+      "ingested_at": "2025-07-24T08:57:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U04CS",
+          "text": "Import human ratings from CSV to compare with pairwise",
+          "ts": "1754719740.259631",
+          "thread_ts": "1754719440.503006",
+          "blocks": []
+        },
+        "user": {
+          "id": "U04CS",
+          "real_name": "Support Bot"
+        }
+      },
+      "ingested_at": "2025-08-09T06:10:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U05SRE",
+          "text": "Need to pin & lock a 'golden set' before launch",
+          "ts": "1753110600.644991",
+          "thread_ts": "1753110300.482510",
+          "blocks": []
+        },
+        "user": {
+          "id": "U05SRE",
+          "real_name": "Taylor Kim"
+        }
+      },
+      "ingested_at": "2025-07-21T15:11:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "RBAC: cannot assign 'analyst' role to SSO users",
+          "ts": "1753136520.973985",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-07-21T22:23:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C1234LLMEVAL",
+        "channel_name": "cust-galileo-support",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U03OPS",
+          "text": "Bedrock Llama 3 70B intermittently 429 during nightly runs",
+          "ts": "1753320180.209808",
+          "blocks": []
+        },
+        "user": {
+          "id": "U03OPS",
+          "real_name": "Samir Patel"
+        }
+      },
+      "ingested_at": "2025-07-24T01:24:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C2345LLMEVAL",
+        "channel_name": "cust-enterprise-evals",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U05SRE",
+          "text": "Billing overage on evaluation credits\u2014need breakdown",
+          "ts": "1753206360.454253",
+          "blocks": []
+        },
+        "user": {
+          "id": "U05SRE",
+          "real_name": "Taylor Kim"
+        }
+      },
+      "ingested_at": "2025-07-22T17:47:00Z"
+    },
+    {
+      "source": "slack",
+      "payload": {
+        "channel": "C3456OPS",
+        "channel_name": "cust-integrations",
+        "team": "T999GALILEO",
+        "event": {
+          "type": "message",
+          "user": "U01ACME",
+          "text": "IP allowlist for webhook callbacks\u2014static egress IPs?",
+          "ts": "1753541100.818759",
+          "blocks": []
+        },
+        "user": {
+          "id": "U01ACME",
+          "real_name": "Alex Chen"
+        }
+      },
+      "ingested_at": "2025-07-26T14:46:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<1.1753314540@mail.example>",
+          "Date": "2025-07-23T23:49:00Z",
+          "From": "Head of Ops <head.ops@stark-industries.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Integration: Databricks vector export"
+        },
+        "body": "Embedding latency p95 exceeded 4.2s on 2025-08-10. Any incident notes?"
+      },
+      "ingested_at": "2025-07-23T23:51:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<2.1754393880@mail.example>",
+          "Date": "2025-08-05T11:38:00Z",
+          "From": "CTO Umbrella Health <cto@umbrellahealth.org>",
+          "To": "support@galileo.ai",
+          "Subject": "RBAC: Role mapping policy questions"
+        },
+        "body": "Our auditors need an export of go/no-go decisions and thresholds by intent."
+      },
+      "ingested_at": "2025-08-05T11:40:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<3.1754547180@mail.example>",
+          "Date": "2025-08-07T06:13:00Z",
+          "From": "Head of Ops <head.ops@stark-industries.com>",
+          "To": "support@galileo.ai",
+          "Subject": "RBAC: Role mapping policy questions"
+        },
+        "body": "Our auditors need an export of go/no-go decisions and thresholds by intent."
+      },
+      "ingested_at": "2025-08-07T06:15:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<4.1753566900@mail.example>",
+          "Date": "2025-07-26T21:55:00Z",
+          "From": "CTO Umbrella Health <cto@umbrellahealth.org>",
+          "To": "support@galileo.ai",
+          "Subject": "Integration: Databricks vector export"
+        },
+        "body": "Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?"
+      },
+      "ingested_at": "2025-07-26T21:57:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<5.1754602680@mail.example>",
+          "Date": "2025-08-07T21:38:00Z",
+          "From": "Initech SRE <sre@initech.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Incident: Elevated 5xx yesterday"
+        },
+        "body": "SRE here\u2014monitor flagged elevated 5xx from /runs API between 02:10\u201302:27 UTC. Root cause and mitigation?"
+      },
+      "ingested_at": "2025-08-07T21:40:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<6.1752929880@mail.example>",
+          "Date": "2025-07-19T12:58:00Z",
+          "From": "Initech SRE <sre@initech.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Security: IP allowlist for callback webhooks"
+        },
+        "body": "We want higher precision for Safety than UX. Is that supported in the new policy engine?"
+      },
+      "ingested_at": "2025-07-19T13:00:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<7.1752899580@mail.example>",
+          "Date": "2025-07-19T04:33:00Z",
+          "From": "IT Admin <it-admin@globex.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Bug: CSV import fails on UTF-8 BOM"
+        },
+        "body": "Our auditors need an export of go/no-go decisions and thresholds by intent."
+      },
+      "ingested_at": "2025-07-19T04:35:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<8.1753756860@mail.example>",
+          "Date": "2025-07-29T02:41:00Z",
+          "From": "Head of Ops <head.ops@stark-industries.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Request: Private data redaction in transcripts"
+        },
+        "body": "Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?"
+      },
+      "ingested_at": "2025-07-29T02:43:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<9.1754448720@mail.example>",
+          "Date": "2025-08-06T02:52:00Z",
+          "From": "Head of Ops <head.ops@stark-industries.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Billing overage on evaluation credits"
+        },
+        "body": "Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?"
+      },
+      "ingested_at": "2025-08-06T02:54:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<10.1753651740@mail.example>",
+          "Date": "2025-07-27T21:29:00Z",
+          "From": "Wayne DS Team <datascience@wayne-enterprises.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Request: Private data redaction in transcripts"
+        },
+        "body": "We hit rate limits on GPT-4o last night. Can we configure provider fallbacks?"
+      },
+      "ingested_at": "2025-07-27T21:31:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<11.1753824840@mail.example>",
+          "Date": "2025-07-29T21:34:00Z",
+          "From": "Maria Ionescu <maria@acmebank.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Feature: Per-intent thresholds for go/no-go"
+        },
+        "body": "Importing our ratings CSV returns 'Invalid schema at row 1'. The file has a UTF-8 BOM; can the parser handle it?"
+      },
+      "ingested_at": "2025-07-29T21:36:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<12.1753760160@mail.example>",
+          "Date": "2025-07-29T03:36:00Z",
+          "From": "Head of Ops <head.ops@stark-industries.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Incident: Elevated 5xx yesterday"
+        },
+        "body": "Hello,\nWe appear to have crossed the evaluation credit cap unexpectedly last week. Could you share a breakdown by model/provider and any spikes?"
+      },
+      "ingested_at": "2025-07-29T03:38:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<13.1753800480@mail.example>",
+          "Date": "2025-07-29T14:48:00Z",
+          "From": "Maria Ionescu <maria@acmebank.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Feature: Per-intent thresholds for go/no-go"
+        },
+        "body": "For audit, we need identical results when re-running with the same seed and artifacts. What are current guarantees?"
+      },
+      "ingested_at": "2025-07-29T14:50:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<14.1753480680@mail.example>",
+          "Date": "2025-07-25T21:58:00Z",
+          "From": "Maria Ionescu <maria@acmebank.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Billing overage on evaluation credits"
+        },
+        "body": "We'd like to export embeddings + labels into Unity Catalog. Any sample notebook or connector?"
+      },
+      "ingested_at": "2025-07-25T22:00:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<15.1753648740@mail.example>",
+          "Date": "2025-07-27T20:39:00Z",
+          "From": "CTO Umbrella Health <cto@umbrellahealth.org>",
+          "To": "support@galileo.ai",
+          "Subject": "Request: Private data redaction in transcripts"
+        },
+        "body": "Hello,\nWe appear to have crossed the evaluation credit cap unexpectedly last week. Could you share a breakdown by model/provider and any spikes?"
+      },
+      "ingested_at": "2025-07-27T20:41:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<16.1754508720@mail.example>",
+          "Date": "2025-08-06T19:32:00Z",
+          "From": "Initech SRE <sre@initech.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Security: IP allowlist for callback webhooks"
+        },
+        "body": "Hello,\nWe appear to have crossed the evaluation credit cap unexpectedly last week. Could you share a breakdown by model/provider and any spikes?"
+      },
+      "ingested_at": "2025-08-06T19:34:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<17.1753953360@mail.example>",
+          "Date": "2025-07-31T09:16:00Z",
+          "From": "CTO Umbrella Health <cto@umbrellahealth.org>",
+          "To": "support@galileo.ai",
+          "Subject": "RBAC: Role mapping policy questions"
+        },
+        "body": "Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?"
+      },
+      "ingested_at": "2025-07-31T09:18:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<18.1754100720@mail.example>",
+          "Date": "2025-08-02T02:12:00Z",
+          "From": "Initech SRE <sre@initech.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Bug: CSV import fails on UTF-8 BOM"
+        },
+        "body": "Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?"
+      },
+      "ingested_at": "2025-08-02T02:14:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<19.1753877760@mail.example>",
+          "Date": "2025-07-30T12:16:00Z",
+          "From": "Maria Ionescu <maria@acmebank.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Quotas: Model provider limits exceeded"
+        },
+        "body": "SRE here\u2014monitor flagged elevated 5xx from /runs API between 02:10\u201302:27 UTC. Root cause and mitigation?"
+      },
+      "ingested_at": "2025-07-30T12:18:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<20.1754199000@mail.example>",
+          "Date": "2025-08-03T05:30:00Z",
+          "From": "CTO Umbrella Health <cto@umbrellahealth.org>",
+          "To": "support@galileo.ai",
+          "Subject": "RBAC: Role mapping policy questions"
+        },
+        "body": "We want higher precision for Safety than UX. Is that supported in the new policy engine?"
+      },
+      "ingested_at": "2025-08-03T05:32:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<21.1754028840@mail.example>",
+          "Date": "2025-08-01T06:14:00Z",
+          "From": "Initech SRE <sre@initech.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Incident: Elevated 5xx yesterday"
+        },
+        "body": "Our auditors need an export of go/no-go decisions and thresholds by intent."
+      },
+      "ingested_at": "2025-08-01T06:16:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<22.1754438760@mail.example>",
+          "Date": "2025-08-06T00:06:00Z",
+          "From": "Initech SRE <sre@initech.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Billing overage on evaluation credits"
+        },
+        "body": "Our auditors need an export of go/no-go decisions and thresholds by intent."
+      },
+      "ingested_at": "2025-08-06T00:08:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<23.1752691800@mail.example>",
+          "Date": "2025-07-16T18:50:00Z",
+          "From": "Initech SRE <sre@initech.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Integration: Databricks vector export"
+        },
+        "body": "We hit rate limits on Claude 3.5 Haiku last night. Can we configure provider fallbacks?"
+      },
+      "ingested_at": "2025-07-16T18:52:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<24.1753099860@mail.example>",
+          "Date": "2025-07-21T12:11:00Z",
+          "From": "Head of Ops <head.ops@stark-industries.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Integration: Databricks vector export"
+        },
+        "body": "We use Okta; need RBAC sync details and audit logs for admin changes."
+      },
+      "ingested_at": "2025-07-21T12:13:00Z"
+    },
+    {
+      "source": "email",
+      "payload": {
+        "headers": {
+          "Message-ID": "<25.1752772980@mail.example>",
+          "Date": "2025-07-17T17:23:00Z",
+          "From": "Initech SRE <sre@initech.com>",
+          "To": "support@galileo.ai",
+          "Subject": "Bug: CSV import fails on UTF-8 BOM"
+        },
+        "body": "We use Okta; need RBAC sync details and audit logs for admin changes."
+      },
+      "ingested_at": "2025-07-17T17:25:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2001,
+        "created_at": "2025-07-29T03:00:00Z",
+        "updated_at": "2025-07-29T05:00:00Z",
+        "name": "API: 500 on /runs with large dataset",
+        "description": "Document static egress IPs and rotation policy for firewall rules.",
+        "story_type": "chore",
+        "workflow_state_id": 500000010,
+        "project_id": 123,
+        "labels": [
+          {
+            "id": 7731,
+            "name": "product"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2001"
+      },
+      "ingested_at": "2025-07-29T05:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2002,
+        "created_at": "2025-07-23T16:00:00Z",
+        "updated_at": "2025-07-23T18:00:00Z",
+        "name": "Enhancement: Golden set pin & lock",
+        "description": "Alert on p95 embedding latency > 3s; investigate provider throttling.",
+        "story_type": "bug",
+        "workflow_state_id": 500000006,
+        "project_id": 124,
+        "labels": [
+          {
+            "id": 7023,
+            "name": "rbac"
+          },
+          {
+            "id": 8688,
+            "name": "security"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2002"
+      },
+      "ingested_at": "2025-07-23T18:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2003,
+        "created_at": "2025-08-04T11:00:00Z",
+        "updated_at": "2025-08-04T13:00:00Z",
+        "name": "Integration: Azure OpenAI region picker",
+        "description": "Ensure deterministic seeds across providers where possible; document caveats.",
+        "story_type": "feature",
+        "workflow_state_id": 500000006,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 3298,
+            "name": "ui"
+          },
+          {
+            "id": 8321,
+            "name": "performance"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2003"
+      },
+      "ingested_at": "2025-08-04T13:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2004,
+        "created_at": "2025-07-31T01:00:00Z",
+        "updated_at": "2025-07-31T03:00:00Z",
+        "name": "Observability: Add request id to responses",
+        "description": "Allow users to pin a golden dataset and lock edits ahead of release window.",
+        "story_type": "bug",
+        "workflow_state_id": 500000006,
+        "project_id": 123,
+        "labels": [
+          {
+            "id": 3765,
+            "name": "product"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2004"
+      },
+      "ingested_at": "2025-07-31T03:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2005,
+        "created_at": "2025-08-08T15:00:00Z",
+        "updated_at": "2025-08-08T17:00:00Z",
+        "name": "Export: Databricks Unity Catalog",
+        "description": "Escape slashes in group names during SSO role sync.",
+        "story_type": "bug",
+        "workflow_state_id": 500000010,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 7382,
+            "name": "rbac"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2005"
+      },
+      "ingested_at": "2025-08-08T17:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2006,
+        "created_at": "2025-08-03T00:00:00Z",
+        "updated_at": "2025-08-03T02:00:00Z",
+        "name": "API: 500 on /runs with large dataset",
+        "description": "Escape slashes in group names during SSO role sync.",
+        "story_type": "bug",
+        "workflow_state_id": 500000010,
+        "project_id": 124,
+        "labels": [
+          {
+            "id": 8265,
+            "name": "azure"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2006"
+      },
+      "ingested_at": "2025-08-03T02:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2007,
+        "created_at": "2025-08-06T02:00:00Z",
+        "updated_at": "2025-08-06T04:00:00Z",
+        "name": "Security: IP allowlist for webhooks",
+        "description": "Update and publish retention and purge procedures (SOC2).",
+        "story_type": "bug",
+        "workflow_state_id": 500000010,
+        "project_id": 124,
+        "labels": [
+          {
+            "id": 7943,
+            "name": "latency"
+          },
+          {
+            "id": 6923,
+            "name": "repro"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2007"
+      },
+      "ingested_at": "2025-08-06T04:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2008,
+        "created_at": "2025-08-05T02:00:00Z",
+        "updated_at": "2025-08-05T04:00:00Z",
+        "name": "Enhancement: Golden set pin & lock",
+        "description": "Add UI support for francecentral; backend already whitelisted.",
+        "story_type": "feature",
+        "workflow_state_id": 500000010,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 7566,
+            "name": "docs"
+          },
+          {
+            "id": 6813,
+            "name": "performance"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2008"
+      },
+      "ingested_at": "2025-08-05T04:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2009,
+        "created_at": "2025-07-19T14:00:00Z",
+        "updated_at": "2025-07-19T16:00:00Z",
+        "name": "Enhancement: Golden set pin & lock",
+        "description": "Allow per-intent precision/recall thresholds and go/no-go gates.",
+        "story_type": "bug",
+        "workflow_state_id": 500000007,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 4479,
+            "name": "api"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2009"
+      },
+      "ingested_at": "2025-07-19T16:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2010,
+        "created_at": "2025-07-21T15:00:00Z",
+        "updated_at": "2025-07-21T17:00:00Z",
+        "name": "Docs: Data retention policy update",
+        "description": "Repro: Apply filters on Runs page, open a run, hit back. Filters cleared. Expect filters to persist.",
+        "story_type": "chore",
+        "workflow_state_id": 500000010,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 7224,
+            "name": "security"
+          },
+          {
+            "id": 8559,
+            "name": "docs"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2010"
+      },
+      "ingested_at": "2025-07-21T17:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2011,
+        "created_at": "2025-08-03T01:00:00Z",
+        "updated_at": "2025-08-03T03:00:00Z",
+        "name": "RBAC: Group name escaping",
+        "description": "Update and publish retention and purge procedures (SOC2).",
+        "story_type": "feature",
+        "workflow_state_id": 500000007,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 3240,
+            "name": "integration"
+          },
+          {
+            "id": 7057,
+            "name": "security"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2011"
+      },
+      "ingested_at": "2025-08-03T03:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2012,
+        "created_at": "2025-08-04T14:00:00Z",
+        "updated_at": "2025-08-04T16:00:00Z",
+        "name": "UI: Filters reset on back nav",
+        "description": "Surface request id in API responses for correlation in logs.",
+        "story_type": "feature",
+        "workflow_state_id": 500000010,
+        "project_id": 124,
+        "labels": [
+          {
+            "id": 5808,
+            "name": "api"
+          },
+          {
+            "id": 4647,
+            "name": "performance"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2012"
+      },
+      "ingested_at": "2025-08-04T16:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2013,
+        "created_at": "2025-07-25T18:00:00Z",
+        "updated_at": "2025-07-25T20:00:00Z",
+        "name": "RBAC: Group name escaping",
+        "description": "Allow per-intent precision/recall thresholds and go/no-go gates.",
+        "story_type": "bug",
+        "workflow_state_id": 500000007,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 4171,
+            "name": "performance"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2013"
+      },
+      "ingested_at": "2025-07-25T20:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2014,
+        "created_at": "2025-07-31T16:00:00Z",
+        "updated_at": "2025-07-31T18:00:00Z",
+        "name": "Export: Databricks Unity Catalog",
+        "description": "Update and publish retention and purge procedures (SOC2).",
+        "story_type": "feature",
+        "workflow_state_id": 500000006,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 5053,
+            "name": "azure"
+          },
+          {
+            "id": 8972,
+            "name": "product"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2014"
+      },
+      "ingested_at": "2025-07-31T18:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2015,
+        "created_at": "2025-08-07T13:00:00Z",
+        "updated_at": "2025-08-07T15:00:00Z",
+        "name": "Security: IP allowlist for webhooks",
+        "description": "Update and publish retention and purge procedures (SOC2).",
+        "story_type": "feature",
+        "workflow_state_id": 500000010,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 2075,
+            "name": "api"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2015"
+      },
+      "ingested_at": "2025-08-07T15:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2016,
+        "created_at": "2025-07-20T22:00:00Z",
+        "updated_at": "2025-07-21T00:00:00Z",
+        "name": "Security: IP allowlist for webhooks",
+        "description": "Document static egress IPs and rotation policy for firewall rules.",
+        "story_type": "feature",
+        "workflow_state_id": 500000007,
+        "project_id": 123,
+        "labels": [
+          {
+            "id": 3469,
+            "name": "security"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2016"
+      },
+      "ingested_at": "2025-07-21T00:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2017,
+        "created_at": "2025-07-20T23:00:00Z",
+        "updated_at": "2025-07-21T01:00:00Z",
+        "name": "Security: IP allowlist for webhooks",
+        "description": "Add UI support for westus3; backend already whitelisted.",
+        "story_type": "bug",
+        "workflow_state_id": 500000010,
+        "project_id": 125,
+        "labels": [
+          {
+            "id": 8601,
+            "name": "policy"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2017"
+      },
+      "ingested_at": "2025-07-21T01:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2018,
+        "created_at": "2025-07-28T09:00:00Z",
+        "updated_at": "2025-07-28T11:00:00Z",
+        "name": "RBAC: Group name escaping",
+        "description": "Allow users to pin a golden dataset and lock edits ahead of release window.",
+        "story_type": "chore",
+        "workflow_state_id": 500000007,
+        "project_id": 124,
+        "labels": [
+          {
+            "id": 7343,
+            "name": "policy"
+          },
+          {
+            "id": 2046,
+            "name": "latency"
+          },
+          {
+            "id": 7790,
+            "name": "export"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2018"
+      },
+      "ingested_at": "2025-07-28T11:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2019,
+        "created_at": "2025-07-12T13:00:00Z",
+        "updated_at": "2025-07-12T15:00:00Z",
+        "name": "Export: Databricks Unity Catalog",
+        "description": "Add UI support for francecentral; backend already whitelisted.",
+        "story_type": "bug",
+        "workflow_state_id": 500000010,
+        "project_id": 124,
+        "labels": [
+          {
+            "id": 7009,
+            "name": "repro"
+          },
+          {
+            "id": 4624,
+            "name": "policy"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2019"
+      },
+      "ingested_at": "2025-07-12T15:05:00Z"
+    },
+    {
+      "source": "shortcut",
+      "payload": {
+        "id": 2020,
+        "created_at": "2025-07-19T20:00:00Z",
+        "updated_at": "2025-07-19T22:00:00Z",
+        "name": "Observability: Add request id to responses",
+        "description": "Export embeddings + labels to Unity Catalog with schema mapping.",
+        "story_type": "feature",
+        "workflow_state_id": 500000010,
+        "project_id": 123,
+        "labels": [
+          {
+            "id": 4125,
+            "name": "ui"
+          }
+        ],
+        "app_url": "https://app.shortcut.com/acme/story/2020"
+      },
+      "ingested_at": "2025-07-19T22:05:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3001",
+        "started_at": "2025-08-06T12:00:00Z",
+        "duration_sec": 900,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Morgan Zhu",
+            "role": "customer"
+          }
+        ],
+        "topic": "Reproducibility & seeds",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "Re-running last week's eval yields slightly different scores."
+          },
+          {
+            "speaker": "cs",
+            "text": "We'll fix seed plumbing; note provider sampling can still drift."
+          }
+        ],
+        "summary": "Discussion on Reproducibility & seeds; action items captured by CS."
+      },
+      "ingested_at": "2025-08-06T13:00:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3002",
+        "started_at": "2025-07-29T00:00:00Z",
+        "duration_sec": 1800,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Priya Singh",
+            "role": "customer"
+          }
+        ],
+        "topic": "Reproducibility & seeds",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "Re-running last week's eval yields slightly different scores."
+          },
+          {
+            "speaker": "cs",
+            "text": "We'll fix seed plumbing; note provider sampling can still drift."
+          }
+        ],
+        "summary": "Discussion on Reproducibility & seeds; action items captured by CS."
+      },
+      "ingested_at": "2025-07-29T01:00:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3003",
+        "started_at": "2025-08-06T15:00:00Z",
+        "duration_sec": 1800,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Morgan Zhu",
+            "role": "customer"
+          }
+        ],
+        "topic": "Billing & quotas",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "We hit the evaluation credit cap unexpectedly."
+          },
+          {
+            "speaker": "cs",
+            "text": "We'll send a breakdown by provider and models with spikes."
+          }
+        ],
+        "summary": "Discussion on Billing & quotas; action items captured by CS."
+      },
+      "ingested_at": "2025-08-06T16:00:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3004",
+        "started_at": "2025-08-01T19:00:00Z",
+        "duration_sec": 1200,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Riley Gomez",
+            "role": "customer"
+          }
+        ],
+        "topic": "Data retention & purge",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "Legal needs purge-by-user and redaction at export."
+          },
+          {
+            "speaker": "cs",
+            "text": "We support per-user purge and redaction via policy settings."
+          }
+        ],
+        "summary": "Discussion on Data retention & purge; action items captured by CS."
+      },
+      "ingested_at": "2025-08-01T20:00:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3005",
+        "started_at": "2025-08-03T22:00:00Z",
+        "duration_sec": 900,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Priya Singh",
+            "role": "customer"
+          }
+        ],
+        "topic": "Latency & provider fallbacks",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "Embedding latency p95 spiked last night."
+          },
+          {
+            "speaker": "cs",
+            "text": "We can enable fallback providers and rate-limit protection."
+          }
+        ],
+        "summary": "Discussion on Latency & provider fallbacks; action items captured by CS."
+      },
+      "ingested_at": "2025-08-03T23:00:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3006",
+        "started_at": "2025-08-04T21:00:00Z",
+        "duration_sec": 900,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Chris Alvarez",
+            "role": "customer"
+          }
+        ],
+        "topic": "Webhook IP allowlisting",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "We need static egress IPs for firewall rules."
+          },
+          {
+            "speaker": "cs",
+            "text": "We'll document IPs and rotation notice policy."
+          }
+        ],
+        "summary": "Discussion on Webhook IP allowlisting; action items captured by CS."
+      },
+      "ingested_at": "2025-08-04T22:00:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3007",
+        "started_at": "2025-08-03T15:00:00Z",
+        "duration_sec": 1200,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Chris Alvarez",
+            "role": "customer"
+          }
+        ],
+        "topic": "Data retention & purge",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "Legal needs purge-by-user and redaction at export."
+          },
+          {
+            "speaker": "cs",
+            "text": "We support per-user purge and redaction via policy settings."
+          }
+        ],
+        "summary": "Discussion on Data retention & purge; action items captured by CS."
+      },
+      "ingested_at": "2025-08-03T16:00:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3008",
+        "started_at": "2025-07-30T21:00:00Z",
+        "duration_sec": 900,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Riley Gomez",
+            "role": "customer"
+          }
+        ],
+        "topic": "Webhook IP allowlisting",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "We need static egress IPs for firewall rules."
+          },
+          {
+            "speaker": "cs",
+            "text": "We'll document IPs and rotation notice policy."
+          }
+        ],
+        "summary": "Discussion on Webhook IP allowlisting; action items captured by CS."
+      },
+      "ingested_at": "2025-07-30T22:00:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3009",
+        "started_at": "2025-08-08T13:00:00Z",
+        "duration_sec": 1200,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Morgan Zhu",
+            "role": "customer"
+          }
+        ],
+        "topic": "Reproducibility & seeds",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "Re-running last week's eval yields slightly different scores."
+          },
+          {
+            "speaker": "cs",
+            "text": "We'll fix seed plumbing; note provider sampling can still drift."
+          }
+        ],
+        "summary": "Discussion on Reproducibility & seeds; action items captured by CS."
+      },
+      "ingested_at": "2025-08-08T14:00:00Z"
+    },
+    {
+      "source": "customer_call",
+      "payload": {
+        "call_id": "CALL-3010",
+        "started_at": "2025-08-05T17:00:00Z",
+        "duration_sec": 900,
+        "participants": [
+          {
+            "name": "Priya Singh",
+            "role": "customer_success"
+          },
+          {
+            "name": "Alex Chen",
+            "role": "solutions"
+          },
+          {
+            "name": "Morgan Zhu",
+            "role": "customer"
+          }
+        ],
+        "topic": "Golden set governance",
+        "transcript": [
+          {
+            "speaker": "customer",
+            "text": "We want to lock a golden set before release."
+          },
+          {
+            "speaker": "cs",
+            "text": "We\u2019ll add pin/lock controls with role permissions."
+          }
+        ],
+        "summary": "Discussion on Golden set governance; action items captured by CS."
+      },
+      "ingested_at": "2025-08-05T18:00:00Z"
+    }
+  ]
+}

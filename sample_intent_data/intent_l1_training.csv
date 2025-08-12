@@ -1,0 +1,159 @@
+﻿,record_id,source,timestamp,text,L1_Intent
+0,slack-0,slack,2025-08-09T11:56:00Z,Policy engine: per-intent thresholds for go/no-go,Unknown
+1,slack-1,slack,2025-08-03T15:01:00Z,Azure OpenAI swedencentral region unsupported in UI; docs mention it,Unknown
+2,slack-2,slack,2025-08-06T15:11:00Z,Need to pin & lock a 'golden set' before launch,Product Functionality Questions
+3,slack-3,slack,2025-07-28T23:29:00Z,IP allowlist for webhook callbacks—static egress IPs?,Integration Problems
+4,slack-4,slack,2025-08-02T14:40:00Z,Export embeddings + labels to Databricks Unity Catalog,Data Management Issues
+5,slack-5,slack,2025-07-30T12:36:00Z,UI filters reset after back navigation (Chrome 128),User Experience Issues
+6,slack-6,slack,2025-07-27T19:01:00Z,Need to pin & lock a 'golden set' before launch,Unknown
+7,slack-7,slack,2025-07-29T21:56:00Z,Azure OpenAI eastus2 region unsupported in UI; docs mention it,Unknown
+8,slack-8,slack,2025-07-30T19:21:00Z,Bedrock Claude 3 Sonnet intermittently 429 during nightly runs,Platform Technical Issues
+9,slack-9,slack,2025-07-21T10:12:00Z,IP allowlist for webhook callbacks—static egress IPs?,Unknown
+10,slack-10,slack,2025-08-10T08:33:00Z,Import human ratings from CSV to compare with pairwise,Data Management Issues
+11,slack-11,slack,2025-08-02T03:46:00Z,SOC2 team needs latest data retention PDF,Security and Compliance Inquiries
+12,slack-12,slack,2025-08-03T17:23:00Z,RBAC: cannot assign 'analyst' role to SSO users,Authentication and Access Issues
+13,slack-13,slack,2025-07-29T12:08:00Z,Model switch from gpt-4o to gpt-4o-mini changes metrics by 3%,Reproducibility and Evaluation Concerns
+14,slack-14,slack,2025-07-28T09:39:00Z,Import human ratings from CSV to compare with pairwise,Data Management Issues
+15,slack-15,slack,2025-08-08T10:54:00Z,SOC2 team needs latest data retention PDF,Unknown
+16,slack-16,slack,2025-07-31T12:20:00Z,Streaming chunking yields mismatched token counts,Unknown
+17,slack-17,slack,2025-08-07T19:34:00Z,RBAC: cannot assign 'analyst' role to SSO users,Unknown
+18,slack-18,slack,2025-08-09T05:29:00Z,How to set a seed for deterministic few-shot prompts,Product Functionality Questions
+19,slack-19,slack,2025-07-30T06:59:00Z,SSO role mapping fails for group name 'qa/regression',Authentication and Access Issues
+20,slack-20,slack,2025-08-03T10:28:00Z,SSO role mapping fails for group name 'qa/regression',Unknown
+21,slack-21,slack,2025-07-21T06:28:00Z,SSO role mapping fails for group name 'qa/regression',Unknown
+22,slack-22,slack,2025-08-10T06:20:00Z,Webhook to warehouse returns 400 when scores.custom has nulls,Unknown
+23,slack-23,slack,2025-07-25T19:14:00Z,Reproducibility: eval replay gives slightly different scores,Unknown
+24,slack-24,slack,2025-08-01T15:31:00Z,Bedrock Llama 3 70B intermittently 429 during nightly runs,Platform Technical Issues
+25,slack-25,slack,2025-08-09T16:29:00Z,Azure OpenAI westus3 region unsupported in UI; docs mention it,Unknown
+26,slack-26,slack,2025-08-10T14:11:00Z,Embedding latency jump to ~2.9s yesterday around 1:00 UTC,Performance and Latency Concerns
+27,slack-27,slack,2025-08-07T05:17:00Z,Bedrock Claude 3.5 Haiku intermittently 429 during nightly runs,Unknown
+28,slack-28,slack,2025-08-10T10:41:00Z,SOC2 team needs latest data retention PDF,Unknown
+29,slack-29,slack,2025-08-10T00:04:00Z,Bedrock Llama 3 70B intermittently 429 during nightly runs,Unknown
+30,slack-30,slack,2025-07-30T03:13:00Z,Policy engine: per-intent thresholds for go/no-go,Unknown
+31,slack-31,slack,2025-08-03T20:39:00Z,Policy engine: per-intent thresholds for go/no-go,Unknown
+32,slack-32,slack,2025-08-07T15:16:00Z,Azure OpenAI eastus2 region unsupported in UI; docs mention it,Unknown
+33,slack-33,slack,2025-07-22T11:28:00Z,How to set a seed for deterministic few-shot prompts,Unknown
+34,slack-34,slack,2025-08-07T05:08:00Z,Embedding latency jump to ~4.2s yesterday around 0:00 UTC,Unknown
+35,slack-35,slack,2025-08-08T14:27:00Z,UI filters reset after back navigation (Chrome 126),User Experience Issues
+36,slack-36,slack,2025-07-23T21:49:00Z,500 on POST /api/v1/runs when dataset has >50000 rows,Unknown
+37,slack-37,slack,2025-07-28T17:06:00Z,RBAC: cannot assign 'analyst' role to SSO users,Authentication and Access Issues
+38,slack-38,slack,2025-07-24T08:57:00Z,RBAC: cannot assign 'analyst' role to SSO users,Unknown
+39,slack-39,slack,2025-08-09T06:10:00Z,Import human ratings from CSV to compare with pairwise,Unknown
+40,slack-40,slack,2025-07-21T15:11:00Z,Need to pin & lock a 'golden set' before launch,Product Functionality Questions
+41,slack-41,slack,2025-07-21T22:23:00Z,RBAC: cannot assign 'analyst' role to SSO users,Authentication and Access Issues
+42,slack-42,slack,2025-07-24T01:24:00Z,Bedrock Llama 3 70B intermittently 429 during nightly runs,Unknown
+43,slack-43,slack,2025-07-22T17:47:00Z,Billing overage on evaluation credits—need breakdown,Billing and Subscription Queries
+44,slack-44,slack,2025-07-26T14:46:00Z,IP allowlist for webhook callbacks—static egress IPs?,Unknown
+45,email-45,email,2025-07-23T23:51:00Z,"Integration: Databricks vector export
+Embedding latency p95 exceeded 4.2s on 2025-08-10. Any incident notes?",Integration Problems
+46,email-46,email,2025-08-05T11:40:00Z,"RBAC: Role mapping policy questions
+Our auditors need an export of go/no-go decisions and thresholds by intent.",Policy and Governance Questions
+47,email-47,email,2025-08-07T06:15:00Z,"RBAC: Role mapping policy questions
+Our auditors need an export of go/no-go decisions and thresholds by intent.",Unknown
+48,email-48,email,2025-07-26T21:57:00Z,"Integration: Databricks vector export
+Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?",Unknown
+49,email-49,email,2025-08-07T21:40:00Z,"Incident: Elevated 5xx yesterday
+SRE here—monitor flagged elevated 5xx from /runs API between 02:10–02:27 UTC. Root cause and mitigation?",Incident Reporting
+50,email-50,email,2025-07-19T13:00:00Z,"Security: IP allowlist for callback webhooks
+We want higher precision for Safety than UX. Is that supported in the new policy engine?",Security and Compliance Inquiries
+51,email-51,email,2025-07-19T04:35:00Z,"Bug: CSV import fails on UTF-8 BOM
+Our auditors need an export of go/no-go decisions and thresholds by intent.",Unknown
+52,email-52,email,2025-07-29T02:43:00Z,"Request: Private data redaction in transcripts
+Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?",Data Management Issues
+53,email-53,email,2025-08-06T02:54:00Z,"Billing overage on evaluation credits
+Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?",Billing and Subscription Queries
+54,email-54,email,2025-07-27T21:31:00Z,"Request: Private data redaction in transcripts
+We hit rate limits on GPT-4o last night. Can we configure provider fallbacks?",Unknown
+55,email-55,email,2025-07-29T21:36:00Z,"Feature: Per-intent thresholds for go/no-go
+Importing our ratings CSV returns 'Invalid schema at row 1'. The file has a UTF-8 BOM; can the parser handle it?",Unknown
+56,email-56,email,2025-07-29T03:38:00Z,"Incident: Elevated 5xx yesterday
+Hello,
+We appear to have crossed the evaluation credit cap unexpectedly last week. Could you share a breakdown by model/provider and any spikes?",Billing and Subscription Queries
+57,email-57,email,2025-07-29T14:50:00Z,"Feature: Per-intent thresholds for go/no-go
+For audit, we need identical results when re-running with the same seed and artifacts. What are current guarantees?",Unknown
+58,email-58,email,2025-07-25T22:00:00Z,"Billing overage on evaluation credits
+We'd like to export embeddings + labels into Unity Catalog. Any sample notebook or connector?",Data Management Issues
+59,email-59,email,2025-07-27T20:41:00Z,"Request: Private data redaction in transcripts
+Hello,
+We appear to have crossed the evaluation credit cap unexpectedly last week. Could you share a breakdown by model/provider and any spikes?",Unknown
+60,email-60,email,2025-08-06T19:34:00Z,"Security: IP allowlist for callback webhooks
+Hello,
+We appear to have crossed the evaluation credit cap unexpectedly last week. Could you share a breakdown by model/provider and any spikes?",Security and Compliance Inquiries
+61,email-61,email,2025-07-31T09:18:00Z,"RBAC: Role mapping policy questions
+Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?",Authentication and Access Issues
+62,email-62,email,2025-08-02T02:14:00Z,"Bug: CSV import fails on UTF-8 BOM
+Our firewall blocks outbound except allowlisted IPs. Do you publish static egress IPs for callback webhooks?",Unknown
+63,email-63,email,2025-07-30T12:18:00Z,"Quotas: Model provider limits exceeded
+SRE here—monitor flagged elevated 5xx from /runs API between 02:10–02:27 UTC. Root cause and mitigation?",Incident Reporting
+64,email-64,email,2025-08-03T05:32:00Z,"RBAC: Role mapping policy questions
+We want higher precision for Safety than UX. Is that supported in the new policy engine?",Security and Compliance Inquiries
+65,email-65,email,2025-08-01T06:16:00Z,"Incident: Elevated 5xx yesterday
+Our auditors need an export of go/no-go decisions and thresholds by intent.",Policy and Governance Questions
+66,email-66,email,2025-08-06T00:08:00Z,"Billing overage on evaluation credits
+Our auditors need an export of go/no-go decisions and thresholds by intent.",Billing and Subscription Queries
+67,email-67,email,2025-07-16T18:52:00Z,"Integration: Databricks vector export
+We hit rate limits on Claude 3.5 Haiku last night. Can we configure provider fallbacks?",Integration Problems
+68,email-68,email,2025-07-21T12:13:00Z,"Integration: Databricks vector export
+We use Okta; need RBAC sync details and audit logs for admin changes.",Unknown
+69,email-69,email,2025-07-17T17:25:00Z,"Bug: CSV import fails on UTF-8 BOM
+We use Okta; need RBAC sync details and audit logs for admin changes.",Data Management Issues
+70,shortcut-70,shortcut,2025-07-29T05:05:00Z,"API: 500 on /runs with large dataset
+Document static egress IPs and rotation policy for firewall rules.",Unknown
+71,shortcut-71,shortcut,2025-07-23T18:05:00Z,"Enhancement: Golden set pin & lock
+Alert on p95 embedding latency > 3s; investigate provider throttling.",Feature Requests and Enhancements
+72,shortcut-72,shortcut,2025-08-04T13:05:00Z,"Integration: Azure OpenAI region picker
+Ensure deterministic seeds across providers where possible; document caveats.",Integration Problems
+73,shortcut-73,shortcut,2025-07-31T03:05:00Z,"Observability: Add request id to responses
+Allow users to pin a golden dataset and lock edits ahead of release window.",Unknown
+74,shortcut-74,shortcut,2025-08-08T17:05:00Z,"Export: Databricks Unity Catalog
+Escape slashes in group names during SSO role sync.",Unknown
+75,shortcut-75,shortcut,2025-08-03T02:05:00Z,"API: 500 on /runs with large dataset
+Escape slashes in group names during SSO role sync.",Unknown
+76,shortcut-76,shortcut,2025-08-06T04:05:00Z,"Security: IP allowlist for webhooks
+Update and publish retention and purge procedures (SOC2).",Security and Compliance Inquiries
+77,shortcut-77,shortcut,2025-08-05T04:05:00Z,"Enhancement: Golden set pin & lock
+Add UI support for francecentral; backend already whitelisted.",Unknown
+78,shortcut-78,shortcut,2025-07-19T16:05:00Z,"Enhancement: Golden set pin & lock
+Allow per-intent precision/recall thresholds and go/no-go gates.",Feature Requests and Enhancements
+79,shortcut-79,shortcut,2025-07-21T17:05:00Z,"Docs: Data retention policy update
+Repro: Apply filters on Runs page, open a run, hit back. Filters cleared. Expect filters to persist.",Unknown
+80,shortcut-80,shortcut,2025-08-03T03:05:00Z,"RBAC: Group name escaping
+Update and publish retention and purge procedures (SOC2).",Unknown
+81,shortcut-81,shortcut,2025-08-04T16:05:00Z,"UI: Filters reset on back nav
+Surface request id in API responses for correlation in logs.",User Experience Issues
+82,shortcut-82,shortcut,2025-07-25T20:05:00Z,"RBAC: Group name escaping
+Allow per-intent precision/recall thresholds and go/no-go gates.",Unknown
+83,shortcut-83,shortcut,2025-07-31T18:05:00Z,"Export: Databricks Unity Catalog
+Update and publish retention and purge procedures (SOC2).",Unknown
+84,shortcut-84,shortcut,2025-08-07T15:05:00Z,"Security: IP allowlist for webhooks
+Update and publish retention and purge procedures (SOC2).",Unknown
+85,shortcut-85,shortcut,2025-07-21T00:05:00Z,"Security: IP allowlist for webhooks
+Document static egress IPs and rotation policy for firewall rules.",Unknown
+86,shortcut-86,shortcut,2025-07-21T01:05:00Z,"Security: IP allowlist for webhooks
+Add UI support for westus3; backend already whitelisted.",Unknown
+87,shortcut-87,shortcut,2025-07-28T11:05:00Z,"RBAC: Group name escaping
+Allow users to pin a golden dataset and lock edits ahead of release window.",Unknown
+88,shortcut-88,shortcut,2025-07-12T15:05:00Z,"Export: Databricks Unity Catalog
+Add UI support for francecentral; backend already whitelisted.",Unknown
+89,shortcut-89,shortcut,2025-07-19T22:05:00Z,"Observability: Add request id to responses
+Export embeddings + labels to Unity Catalog with schema mapping.",Data Management Issues
+90,customer_call-90,customer_call,2025-08-06T13:00:00Z,"customer: Re-running last week's eval yields slightly different scores.
+cs: We'll fix seed plumbing; note provider sampling can still drift.",Reproducibility and Evaluation Concerns
+91,customer_call-91,customer_call,2025-07-29T01:00:00Z,"customer: Re-running last week's eval yields slightly different scores.
+cs: We'll fix seed plumbing; note provider sampling can still drift.",Unknown
+92,customer_call-92,customer_call,2025-08-06T16:00:00Z,"customer: We hit the evaluation credit cap unexpectedly.
+cs: We'll send a breakdown by provider and models with spikes.",Billing and Subscription Queries
+93,customer_call-93,customer_call,2025-08-01T20:00:00Z,"customer: Legal needs purge-by-user and redaction at export.
+cs: We support per-user purge and redaction via policy settings.",Product Functionality Questions
+94,customer_call-94,customer_call,2025-08-03T23:00:00Z,"customer: Embedding latency p95 spiked last night.
+cs: We can enable fallback providers and rate-limit protection.",Performance and Latency Concerns
+95,customer_call-95,customer_call,2025-08-04T22:00:00Z,"customer: We need static egress IPs for firewall rules.
+cs: We'll document IPs and rotation notice policy.",Unknown
+96,customer_call-96,customer_call,2025-08-03T16:00:00Z,"customer: Legal needs purge-by-user and redaction at export.
+cs: We support per-user purge and redaction via policy settings.",Product Functionality Questions
+97,customer_call-97,customer_call,2025-07-30T22:00:00Z,"customer: We need static egress IPs for firewall rules.
+cs: We'll document IPs and rotation notice policy.",Unknown
+98,customer_call-98,customer_call,2025-08-08T14:00:00Z,"customer: Re-running last week's eval yields slightly different scores.
+cs: We'll fix seed plumbing; note provider sampling can still drift.",Reproducibility and Evaluation Concerns
+99,customer_call-99,customer_call,2025-08-05T18:00:00Z,"customer: We want to lock a golden set before release.
+cs: We’ll add pin/lock controls with role permissions.",Unknown

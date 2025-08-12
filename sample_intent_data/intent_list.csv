@@ -1,0 +1,16 @@
+﻿,Level,Name,Size,Description
+0,L1,Data Management Issues,9,"Customers are inquiring about data handling, including imports, exports, and data formats."
+2,L1,Authentication and Access Issues,6,Customers are facing challenges with role-based access control (RBAC) and SSO configurations.
+1,L1,Billing and Subscription Queries,5,"Customers are asking about billing overages, evaluation credits, and subscription management."
+3,L1,Platform Technical Issues,5,"Customers report technical problems with the platform, including outages and performance issues."
+4,L1,Integration Problems,5,"Customers are experiencing issues with integrations, particularly with third-party tools and APIs."
+5,L1,Product Functionality Questions,5,Customers are asking about specific features and functionalities of the platform.
+6,L1,Security and Compliance Inquiries,5,"Customers are seeking information about security measures, data retention, and compliance policies."
+7,L1,User Experience Issues,3,"Customers report issues related to the user interface and experience, including bugs and usability."
+11,L1,Reproducibility and Evaluation Concerns,3,Customers are asking about reproducibility of evaluation results and metrics.
+8,L1,Performance and Latency Concerns,2,"Customers are concerned about performance metrics, including latency and response times."
+9,L1,Feature Requests and Enhancements,2,Customers are requesting new features or enhancements to existing functionalities.
+10,L1,Incident Reporting,2,Customers are reporting incidents related to system performance or errors.
+12,L1,Policy and Governance Questions,2,"Customers are inquiring about policies related to data handling, retention, and governance."
+13,L1,Feedback and Suggestions,0,Customers provide feedback or suggestions for improving the platform.
+14,L1,General Inquiries,0,Customers have general questions that do not fit into other categories.
